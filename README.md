@@ -6,7 +6,7 @@ Megaline offers its clients two prepaid plans, Surf and Ultimate. The commercial
 ### Tasks description:
 1. Assisted Yandex analytics team with telecom operator Megaline.
 2. Carried out preliminary analysis of the plans based on a relatively small client selection.
-3. Analyzed clients' behavior and determine which prepaid plan brings in more revenue.
+3. Analyzed clients' behavior and determined which prepaid plan brings in more revenue.
 
 
 ### Description of the plans:
