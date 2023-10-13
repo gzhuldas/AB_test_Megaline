@@ -28,12 +28,12 @@ After exceeding the package limits:<br>
 
 
 ### Results:
-The analysis has shown that the users of Surf plan make more calls, text messages and use more mobile internet than Ultimate plan users on average. The reason is simple, there are twice more Surf plan users. The figures that show the monthly distibution of phone calls' duration, internet use etc, have the same pattern for both mobile plans. The distributions clearly show that the tariffs have been gaining more and more popularity, reaching the peak activity in December. Two hypotheses were tested, the first one with<br>
-H0 - The average profit from users of Ultimate and Surf calling plans does not differ<br>
-H1 - The average profit from users of Ultimate and Surf calling plans differs<br>
+The analysis has shown that the users of Surf plan make more calls, text messages and use more mobile internet than Ultimate plan users on average. The reason is simple, there are twice more Surf plan users. The figures that show the monthly distibution of phone calls' duration, internet use etc, have the same pattern for both mobile plans. The distributions clearly show that the tariffs have been gaining more and more popularity, reaching the peak activity in December. Two hypotheses were tested, the first one with:<br>
+H0 - The average profit from users of Ultimate and Surf calling plans does not differ.<br>
+H1 - The average profit from users of Ultimate and Surf calling plans differs.<br>
 The test showed that the alternative hypothesis can be accepted. The average profit for the plans is different and Surf plan probably generates more revenue. 
-The second test<br>
-H0 - The average profit from users in NY-NJ area is not different from that of the users from other regions<br>
+The second test:<br>
+H0 - The average profit from users in NY-NJ area is not different from that of the users from other regions.<br>
 H1 - The average profit from users in NY-NJ area is different from that of the users from other regions.<br>
 The second test also showed that the alternative hypothesis can be accepted. The NY_NJ area probably has more potential clients and as a result the profit generated in this area is larger.
    
